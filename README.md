@@ -1,5 +1,5 @@
   <strong>Hey there! 👋</strong>
-  <p>I'm Karson, helping share the Canadian healthcare system @ <a href="https://felix.ca" target="_blank">Felix.ca</a>.<br> Want to connect?</p>
+  <p>I'm Karson, helping shape the Canadian healthcare system @ <a href="https://felix.ca" target="_blank">Felix.ca</a>.<br> Want to connect?</p>
 
 
 <a href="https://github.com/karsonenns" target="_blank">
