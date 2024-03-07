@@ -1,5 +1,7 @@
   <strong>Hey there! 👋</strong>
-  <p>I'm Karson, helping shape the Canadian healthcare system @ <a href="https://felix.ca" target="_blank">Felix.ca</a>.<br> Want to connect?</p>
+  <p>I'm a product-focused software engineer with a passion for designing and building products that make a difference. Based in Toronto, Canada. 🇨🇦
+
+I'm currently building [AwesomeApps](https://withawesome.co), creating awesome features for niche platforms. Before Awesome, I spent four years as the engineering leader at [Felix Health](https://felix.ca)</p>
 
 
 <a href="https://github.com/karsonenns" target="_blank">
